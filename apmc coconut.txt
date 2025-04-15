@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vinayaka Coconut Dalali Mandi APMC</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+            color: #333;
+        }
+        header {
+            background-color: #00796b;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            margin: 0;
+            padding: 10px 0;
+            text-align: center;
+            background-color: #004d40;
+            color: #fff;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #00796b;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Vinayaka Coconut Dalali Mandi APMC</h1>
+        <p>Connecting farmers and buyers for quality coconuts</p>
+    </header>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#services">Services</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#contact">Contact</a>
+
+    </nav>
+    <section id="about">
+        <h2>About Us</h2>
+        <p><strong>Welcome to Vinayaka Coconut Dalali Mandi APMC,</strong> your trusted hub for quality coconuts in Davangere, Karnataka. We bring farmers and buyers together to ensure the best deals for everyone.</p><p>
+    At Vinayaka Coconut Dalali Mandi, we take pride in connecting farmers and traders with the finest coconuts in the region. With years of experience in the coconut trade, we have established ourselves as a trusted name in the industry.
+</p>
+<p>
+    My name is <strong>Vinay Kumar G.S</strong> , and I am the<strong> Owner of Vinayaka Coconut Dalali Mandi APMC. </strong>I come from a family deeply rooted in trading, and this business is a reflection of my commitment to support our local farmers while delivering top-notch quality to our buyers. My journey in this field has been driven by a passion for bridging the gap between producers and consumers in a fair and efficient way.
+</p><br><hr>
+<h3> More about us</h3>
+<h5> Total number of employees:</h5>
+<p> upto 10 people</p>
+<h5> Languages Known: </h5>
+<p> Kannada, Hindi and English</p>
+<h5> GST NO:</h5>
+<p> GST-29AJJPV9560C1ZN</p>
+
+<h5> GST Legal status:</h5>
+<p> Proprietorship</p>
+<h5> GST REG. Date:</h5>
+<p>01/07/2017</p>
+<h5> Nature of Business:</h5>
+<p> Wholesale and Retailer</p><br>
+<h3>"Not just a service, but a promise of perfection."- VINAYAKA COCONUT DALALI MANDI</h3><hr>
+
+ </section>
+
+
+
+
+  
+<section id="services">
+        <h2>Services</h2>
+        <strong><ul>
+            <li>Wholesale coconut sales</li>
+            <li>Varieties: husked, Hotel quality Coconuts</li>
+            <li>Packaging and delivery options</li>
+<li> Wholesale orders for businesses or events.</li>
+<li>Custom coconut packaging for special occasions.</li>
+        </ul></strong><hr>
+    </section>
+    <section id="pricing">
+        <h2>Pricing</h2>
+        <p>Our pricing is competitive and seasonal.<br> <br>
+(REMEMBER: The Price of the coconut depends upon it's quality and it's demand in the market.)<BR><BR>  
+<strong>75₹ per kg of coconut. (Packing and Loading Extra)
+<br>
+We also take 3.5 ton to 25ton of ordera<br>
+No Credit Available</strong><BR><BR>
+"Our main focus is to provide best quality of coconuts to the customers".<BR><BR><STRONG>Please Contact us for the latest rates.<BR></STRONG>
+</p><hr>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>We believe in delivering quality services that exceed your expectations. At <strong> VINAYAKA COCONUT DALALI MANDI</strong>, customer trust and innovation define our journey.</p>
+        
+        <h5>Location</h5>
+        <adress><p> <b>#19</b>-Shop Number,<BR>APMC Coconut Yard,<BR>Coconut Dalali Mandi, <BR>APMC Market,<BR> Davanagere-577003,<BR> Karnataka, <BR>India.</p></adress>
+        
+        <h5>Contact Us</h5>
+        <p><strong>Phone:</strong> +91-9919912119 | +91-9945014044</p>
+
+<p><strong>Email: </strong>vinaykumardvg688@gmail.com </p>
+        
+        <h5>Operating Hours</h5>
+        <p>24*7 hours<BR><BR><br><br><br><br><br><br><br></p>
+
+
+    </section>
+    <footer>
+        <p>&copy; 2025 Vinayaka Coconut Dalali Mandi APMC. All rights reserved.</p><H4> Contact us:+91 9919912119 | +91 9945014044</h4>
+    </footer>
+</body>
+</html>
